@@ -22,7 +22,7 @@ export default function ProdutoNovidade({ imagem, descricaoprod, titulo, preco }
 
 const estilos = StyleSheet.create({
     prod: {
-        marginTop: 5,
+        marginTop: 20,
         marginBottom: 10,
         width: width * 0.8,
         height: 120,

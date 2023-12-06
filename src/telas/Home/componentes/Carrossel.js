@@ -46,6 +46,7 @@ const Carrossel = () => {
 const styles = StyleSheet.create({
     container: {
         marginTop: 2,
+        marginBottom:10,
         backgroundColor: "#FFFFFF",
         alignItems: 'center',
         justifyContent: 'center',

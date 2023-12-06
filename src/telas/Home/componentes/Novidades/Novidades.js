@@ -48,7 +48,7 @@ export default function Novidades() {
 
 const estilos = StyleSheet.create({
     topo: {
-        marginTop: 2,
+        marginTop: 20,
         width: "100%",
         height: 50,
         backgroundColor: "#660066",

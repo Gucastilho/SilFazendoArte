@@ -50,7 +50,7 @@ export default function Ofertas() {
 
 const estilos = StyleSheet.create({
     topo: {
-        marginTop: 2,
+        marginTop: 20,
         width: "100%",
         height: 50,
         backgroundColor: "#660066",
@@ -61,5 +61,6 @@ const estilos = StyleSheet.create({
         fontWeight: "bold",
         fontSize: 25,
         marginLeft: 10,
+        
     },
 })

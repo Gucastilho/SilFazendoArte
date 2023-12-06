@@ -79,7 +79,7 @@ const styles = StyleSheet.create({
   },
   toggleCameraButton: {
     position: 'absolute',
-    top: 20,
+    top: 30,
     right: 20,
   },
   captureButton: {
